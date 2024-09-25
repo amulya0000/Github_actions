@@ -1,0 +1,16 @@
+ 1. **What is GitHub Actions?**
+    GitHub Actions is a feature of GitHub that helps you automate your software development workflows, such as building, testing, and deploying your code directly within your GitHub repository.
+
+2. **Why and When you should use GitHub Actions?**
+   Use GitHub Actions when you want to automate tasks like testing, building, and deploying your code. 
+   It helps you save time, maintain consistency, and collaborate more efficiently with your team. 
+   You should use GitHub Actions when you want to streamline your development process and focus more on writing code rather than manual tasks.
+
+3. **GitHub Actions vs Jenkins?**
+  - GitHub Actions is tightly integrated with GitHub, making it easy to set up and use without any additional infrastructure.
+  - Jenkins is a self-hosted automation server that requires more setup and maintenance.
+  - GitHub Actions provides better visibility into your workflows directly within your repository.
+  - Jenkins has been around longer and has a larger plugin ecosystem for customization.
+
+In simple terms, GitHub Actions is a more modern and integrated solution for automating your workflows within GitHub, 
+while Jenkins offers more flexibility and customizability but requires more overhead to set up and maintain.  
